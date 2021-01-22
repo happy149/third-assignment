@@ -1,4 +1,9 @@
 
+//
+
+
+
+
 //first problem
 
 kilometerToMeter
@@ -17,6 +22,9 @@ console.log(aliaMeter);
 console.log(ayeshaMeter);
 
  0.05 */
+
+
+
 
 
 
@@ -73,6 +81,11 @@ console.log (cost);
 var total = hotelCost (71);
 console.log (total);
 4350 */
+
+
+
+
+
 
 
  //Forth problem
