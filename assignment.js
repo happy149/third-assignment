@@ -1,6 +1,4 @@
 
-//
-
 
 
 
@@ -9,19 +7,19 @@
 kilometerToMeter
 
 function kilometerToMeter(kilometer) {
-    var meter = kilometer/1000;
+    var meter = kilometer*1000;
     return meter;
 }
 /*
  var aliaMeter = kilometerToMeter(20);
 console.log(aliaMeter);
 
-0.02 
+
 
  var ayeshaMeter = kilometerToMeter(50);
-console.log(ayeshaMeter);
+console.log(ayeshaMeter); */
 
- 0.05 */
+ 
 
 
 
